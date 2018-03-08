@@ -13,12 +13,14 @@
 
 <header class="mainheader">
     <img src="images/image1.png" alt="logo">
+
     <nav><ul>
-      <li><a href="#"Home></a></li>
-      <li><a href="#"About Us></a></li>
-      <li><a href="#"Why Choose Us></a></li>
-      <li><a href="#"Get ln Touch></a></li>
+      <li><a href="Home">Home</a></li>
+      <li><a href="About Us">About Us</a></li>
+      <li><a href="Why Choose Us">Why Choose Us</a></li>
+      <li><a href="Get ln Touch">Get ln Touch</a></li>
     </ul></nav>
+
   </header>
 <div class="maincontent">
   <div class="content">
@@ -60,7 +62,7 @@
       </article>
     </aside>
     <footer class="mainFooter">
-      <p>Copyright</p>
+      <p>Copyright &copy 2018 <a href="yellowpanda.co.za" title="yellowpanda">yellowpanda.co.za</a></p>
     </footer>
     </div>
 </div>
